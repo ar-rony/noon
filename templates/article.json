@@ -2,7 +2,7 @@
     "name": "Article Template",
     "sections": {
         "main": {
-            "type": "main-aritcle",
+            "type": "main-article",
         }
     },
     "order": [
