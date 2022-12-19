@@ -1,0 +1,11 @@
+{
+    "name": "404 Template",
+    "sections": {
+        "main":{
+            "type": "404error"
+        }
+    },
+    "order": [
+        "main"
+    ]
+}
